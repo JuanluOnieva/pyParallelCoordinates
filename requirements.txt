@@ -1,0 +1,7 @@
+unittest
+bokeh
+bokeh selenium
+phantomjs
+pandas
+math
+os
